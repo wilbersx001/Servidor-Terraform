@@ -7,7 +7,7 @@
   <h1>Datos de base de datos Mariadb</h1>
 
   <?php
-    $host = "ejerciciodocker-mariadb-1"; 
+    $host = "servidor-terraform_mariadb_1"; 
     $user = "2180414";
     $password = "2180414";
     $dbname = "desplieguemariad";
